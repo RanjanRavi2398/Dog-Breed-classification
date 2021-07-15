@@ -1,2 +1,6 @@
-# Dog-Breed-classification-using-tensorflow
-Dockship origanised competitons in the deeplearning. Partner company od dockship had origanised this competitions. I have secured 5th position out of more than 150 participants in this competitions. I have used deep learning framework tensorflow for this competitions.
+# Dog-Breed-classification-using-mobilenet
+  
+  Dog Breed Classification is basic classification problem of deep learning . Here, I have used transfer learning concept for this competition. I have used tensorflow framework. I have used  Mobilenetv2 transfer learning algorithm for this dataset. I have got some decent accuracy.
+  
+  # Source of Dataset
+  This dataset is taken Dockship machine learning Competitons. Dataset contains 50000 images  of different breed of dogs. 
